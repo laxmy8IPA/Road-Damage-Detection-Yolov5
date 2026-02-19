@@ -1,8 +1,8 @@
 names:
-- crack
-- manhole
-- person
-- pothole
+  - crack
+  - manhole
+  - person
+  - pothole
 nc: 4
 roboflow:
   license: CC BY 4.0
