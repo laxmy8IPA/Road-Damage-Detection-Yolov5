@@ -1,0 +1,15 @@
+names:
+- crack
+- manhole
+- person
+- pothole
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: road-anomaly-detector
+  url: https://universe.roboflow.com/bharat-ai-soc-challenge/road-anomaly-detector/dataset/4
+  version: 4
+  workspace: bharat-ai-soc-challenge
+test: ../test/images
+train: Road-Anomaly-Detector-4/train/images
+val: Road-Anomaly-Detector-4/valid/images
