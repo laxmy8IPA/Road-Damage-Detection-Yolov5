@@ -1,5 +1,5 @@
 
-Road Anomaly Detector - v4 more anotation
+Road Anomaly Detector - v4 more annotation
 ==============================
 
 This dataset was exported via roboflow.com on February 19, 2026 at 7:41 AM GMT
